@@ -10,8 +10,11 @@ Widow Creek is the public home for the work of **Chris Sgaraglino**, a developer
 The projects below represent different corners of that workshop. Their development repositories are private, but the ideas, purpose, and engineering philosophy behind them are worth sharing.
 
 <br>
+
 ---
 
+<br>
+ 
 ### Tinker AI Studio
 
 <div align="center">
