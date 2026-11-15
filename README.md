@@ -2,7 +2,7 @@
   <img src="assets/widow-creek-header.png" alt="Widow Creek" width="720">
 </div>
 
-<div style="font-size: 1.7em; font-weight: bold;">Chris Sgaraglino</div>
+### Chris Sgaraglino
 
 ### Engineering, technology, creativity, and exploration
 
