@@ -2,9 +2,7 @@
   <img src="assets/widow-creek-header.png" alt="Widow Creek" width="720">
 </div>
 
-## Chris Sgaraglino
-
-### Engineering, technology, creativity, and exploration
+### Chris Sgaraglino: Engineering, technology, creativity, and exploration
 
 Widow Creek is the public home for the work of **Chris Sgaraglino**, a developer, engineer, maker, and lifelong experimenter. Software, electronics, model railroading, photography, and the outdoors may look like separate interests, but they share a common approach: follow curiosity, understand the problem, build something useful, and preserve what the experience teaches.
 
