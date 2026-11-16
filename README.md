@@ -93,9 +93,9 @@ Chris OS and Widow Creek are closely connected. Widow Creek is where curiosity b
   <img src="assets/switchit-logo.png" alt="SwitchIt logo" width="115">
 </div>
 
-SwitchIt is a native macOS software concept for **small model railroad switching puzzles**, not an attempt to manage a sprawling railroad. It combines the operating traditions of car cards and waybills with Inglenook switching challenges, making meaningful operations possible with only a few freight cars and a compact arrangement of track.
+SwitchIt brings **big railroad operations to small model railroad layouts**. It transforms traditional Inglenook switching puzzles and car forwarding into a simple digital experience, with switch lists, car cards, configurable tracks and industries, and realistic capacity based on actual car and siding lengths.
 
-The initial focus is on traditional 5-3-3 and compact 3-2-2 puzzles. A larger inventory can supply a small session, while physically valid track capacities, solvable assignments, and useful paperwork keep the experience grounded in real switching. SwitchIt is currently in research and specification, not application implementation.
+Its virtual interchange yard lets a compact layout draw from a much larger collection of rolling stock, making a few feet of track feel connected to a broader railroad. SwitchIt is being designed for a Mac desktop experience with convenient local network access from phones and tablets. It will operate independently while sharing compatible operating concepts with IRROD and allowing future optional RAILS hardware integration. The project is in planning and architecture review.
 
 ## The common thread
 
