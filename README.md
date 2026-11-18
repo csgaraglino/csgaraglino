@@ -89,7 +89,7 @@ Chris OS and Widow Creek are closely connected. Widow Creek is where curiosity b
 ### SwitchIt
 
 <div align="center">
-  <img src="assets/switchit-hero.png" alt="SwitchIt model railroad switching puzzles" width="600"><br>
+  <img src="assets/switchit-hero-branded.png" alt="SwitchIt model railroad switching puzzles" width="600"><br>
   <img src="assets/switchit-logo.png" alt="SwitchIt logo" width="115">
 </div>
 
