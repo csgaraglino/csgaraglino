@@ -36,7 +36,7 @@ The broader effort includes Tinker Base, a curated reference library, and Tinker
 
 <div align="center">
   <img src="assets/circuitworks-repo-header.jpg" alt="CircuitWorks electronics and embedded systems workshop" width="600"><br>
-  <img src="assets/circuitworks-logo.png" alt="CircuitWorks TechBench logo" width="115">
+  <img src="assets/circuitworks-eb-logo.jpg" alt="CircuitWorks TechBench logo" width="115">
 </div>
 
 CircuitWorks is the electronics and embedded systems workbench. Its projects span circuits, Arduino and ESP32 microcontrollers, firmware, sensors, automation, and practical electronic systems, including technology for model railroad operations.
