@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/ilgm-repo-header.png" alt="ILGM software development" width="720">
+  <img src="assets/ilgm-logo-2027.png" alt="ILGM Inc. Software, Automation, Intelligence" width="720">
 </div>
 
 # ILGM | Software Development & Technology Consulting
@@ -11,7 +11,7 @@ ILGM helps businesses solve problems through custom software, practical technolo
 This is a public overview of the projects and development work behind ILGM. The source repositories and client systems remain private.
 
 <div align="center">
-  <img src="assets/ilgm-repo-header.png" alt="ILGM software development" width="600"><br>
+  <img src="assets/ilgm-hero.png" alt="ILGM Plugins development workstation" width="600"><br>
   <img src="assets/ilgm-inc-logo.png" alt="ILGM Plugins logo" width="115">
 </div>
 
