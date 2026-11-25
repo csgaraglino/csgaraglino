@@ -10,6 +10,8 @@ ILGM helps businesses solve problems through custom software, practical technolo
 
 This is a public overview of the projects and development work behind ILGM. The source repositories and client systems remain private.
 
+### ILGM Plugins
+
 <div align="center">
   <img src="assets/ilgm-hero.png" alt="ILGM Plugins development workstation" width="600"><br>
   <img src="assets/ilgm-inc-logo.png" alt="ILGM Plugins logo" width="115">
