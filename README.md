@@ -10,6 +10,8 @@ ILGM helps businesses solve problems through custom software, practical technolo
 
 This is a public overview of the projects and development work behind ILGM. The source repositories and client systems remain private.
 
+<a id="ilgm-plugins"></a>
+
 ### ILGM Plugins
 
 <div align="center">
@@ -26,6 +28,8 @@ Rather than asking businesses to adapt to the limits of off-the-shelf software, 
 ---
 
 <br>
+
+<a id="nico-intelligence"></a>
 
 ### NICO Intelligence
 
@@ -44,6 +48,8 @@ NICO is developed within the ILGM Plugins portfolio rather than a separate repos
 
 <br>
 
+<a id="tinker-ai-studio"></a>
+
 ### Tinker AI Studio
 
 <div align="center">
@@ -60,6 +66,8 @@ A central goal is **resilience**: developing alternatives when frontier AI servi
 ---
 
 <br>
+
+<a id="switchit"></a>
 
 ### SwitchIt
 
@@ -78,6 +86,8 @@ Beyond model railroading, SwitchIt is a practical development environment for na
 
 <br>
 
+<a id="circuitworks-techbench"></a>
+
 ### CircuitWorks TechBench
 
 <div align="center">
@@ -94,6 +104,22 @@ The focus is on defining the problem first, then choosing the hardware and softw
 ---
 
 <br>
+
+<a id="code-manager"></a>
+
+### Code Manager
+
+Code Manager is ILGM's centralized platform for software development collaboration, tester feedback, release management, and licensing. It brings the operational side of ILGM's software projects together, making it easier to coordinate testing, manage releases, and support licensed installations.
+
+The platform is being developed for ILGM's own applications and workflows. Its management tools and underlying source code remain private.
+
+<br>
+
+---
+
+<br>
+
+<a id="chris-os"></a>
 
 ### Chris OS
 
