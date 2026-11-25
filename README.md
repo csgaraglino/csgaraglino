@@ -2,7 +2,7 @@
   <img src="assets/ilgm-logo-2027.png" alt="ILGM Inc. Software, Automation, Intelligence" width="720">
 </div>
 
-# ILGM | Software Development & Technology Consulting
+# When Technology Doesn't Fit, We Build What Does.
 
 **Chris Sgaraglino, Developer** | More than 30 years of technology and business experience
 
