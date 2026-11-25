@@ -108,4 +108,18 @@ It supports the same human-led approach used throughout ILGM: understand the goa
 
 **Business needs come first.** ILGM brings more than 30 years of experience in consulting and problem solving to software development. WordPress, AI, native Mac applications, and embedded systems are different tools for the same purpose: building useful, maintainable solutions around people and their work.
 
+## Developing Software Since 1994
+
+ILGM's development history began in 1994 with ColdFusion. Over the following decades, we built our own business technology infrastructure, including **iControl Web Studio**, our proprietary web development platform, along with custom billing, support ticketing, and source code repository systems.
+
+**As technology evolved, so did we.** Rather than continuing to develop and maintain every aspect of our internal infrastructure, we began adopting established platforms that allowed us to focus more of our time, expertise, and resources on our clients.
+
+In 2014, we transitioned our web development platform to WordPress. In 2017, we adopted Zendesk for customer support, followed by Harvest for billing in 2022.
+
+In fall 2026, we transitioned our proprietary ColdFusion repository system to Git and GitHub, gaining better connectivity with modern development tools, frontier AI models, and locally hosted language models.
+
+These decisions reflect the same philosophy that guides our client development today: **Build what makes sense, adopt what works, and focus our expertise where it creates the greatest value.**
+
+Our GitHub activity represents the latest chapter in more than 30 years of software development, not where our story began.
+
 **Learn more about ILGM at [ilgminc.com](https://ilgminc.com/).**
