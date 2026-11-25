@@ -2,7 +2,7 @@
   <img src="assets/ilgm-logo-2027.png" alt="ILGM Inc. Software, Automation, Intelligence" width="720">
 </div>
 
-# When Technology Doesn't Fit, We Build What Does.
+<h1 align="center">When Technology Doesn't Fit, We Build What Does.</h1>
 
 **Chris Sgaraglino, Developer** | More than 30 years of technology and business experience
 
