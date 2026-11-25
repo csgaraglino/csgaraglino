@@ -105,6 +105,20 @@ The focus is on defining the problem first, then choosing the hardware and softw
 
 <br>
 
+<a id="code-manager"></a>
+
+### Code Manager
+
+Code Manager is ILGM's centralized platform for software development collaboration, tester feedback, release management, and licensing. It brings the operational side of ILGM's software projects together, making it easier to coordinate testing, manage releases, and support licensed installations.
+
+The platform is being developed for ILGM's own applications and workflows. Its management tools and underlying source code remain private.
+
+<br>
+
+---
+
+<br>
+
 <a id="chris-os"></a>
 
 ### Chris OS
