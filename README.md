@@ -27,6 +27,11 @@ Rather than asking businesses to adapt to the limits of off-the-shelf software, 
 
 ### NICO
 
+<div align="center">
+  <img src="assets/hico-hero.jpg" alt="NICO Intelligence business operations workstation" width="600"><br>
+  <img src="assets/nico-logo.png" alt="NICO Intelligence logo" width="115">
+</div>
+
 NICO Intelligence (NI) stands for **Natural Intelligence for Client Operations**. NICO is ILGM's developing AI-assisted business operations interface. It is designed to help authorized, nontechnical users work with website content, commerce information, and routine business tasks through natural language, while respecting permissions, approvals, and safeguards.
 
 NICO is developed within the ILGM Plugins portfolio rather than a separate repository. Its goal is to make capable business software easier to use, with Tinker exploring resilient AI options that can support that experience over time.
