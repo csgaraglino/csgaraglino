@@ -25,7 +25,7 @@ Rather than asking businesses to adapt to the limits of off-the-shelf software, 
 
 <br>
 
-### NICO
+### NICO Intelligence
 
 <div align="center">
   <img src="assets/hico-hero.jpg" alt="NICO Intelligence business operations workstation" width="600"><br>
