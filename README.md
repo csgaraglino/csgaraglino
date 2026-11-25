@@ -1,19 +1,42 @@
 <div align="center">
-  <img src="assets/widow-creek-header.png" alt="Widow Creek" width="720">
+  <img src="assets/ilgm-repo-header.png" alt="ILGM software development" width="720">
 </div>
 
-### Chris Sgaraglino: Engineering, technology, creativity, and exploration
+# ILGM | Software Development & Technology Consulting
 
-Widow Creek is the public home for the work of **Chris Sgaraglino**, a developer, engineer, maker, and lifelong experimenter. Software, electronics, model railroading, photography, and the outdoors may look like separate interests, but they share a common approach: follow curiosity, understand the problem, build something useful, and preserve what the experience teaches.
+**Chris Sgaraglino, Developer** | More than 30 years of technology and business experience
 
-The projects below represent different corners of that workshop. Their development repositories are private, but the ideas, purpose, and engineering philosophy behind them are worth sharing.
+ILGM helps businesses solve problems through custom software, practical technology consulting, systems integration, and managed hosting. We begin with the business outcome, work backward to the requirements, and build or adapt the technology needed to get there. Our work extends well beyond websites: when existing software cannot support a client's goals, we can develop the missing capability.
+
+This is a public overview of the projects and development work behind ILGM. The source repositories and client systems remain private.
+
+<div align="center">
+  <img src="assets/ilgm-repo-header.png" alt="ILGM software development" width="600"><br>
+  <img src="assets/ilgm-inc-logo.png" alt="ILGM Plugins logo" width="115">
+</div>
+
+ILGM develops and maintains a portfolio of **more than 70 WordPress and WooCommerce plugin applications**, combining original software with carefully maintained third-party components. The portfolio supports publishing, commerce, affiliate programs, ROI reporting, link tracking, customer communication, and day-to-day business operations.
+
+Rather than asking businesses to adapt to the limits of off-the-shelf software, ILGM develops practical tools around how clients actually work. Connected commerce and reporting capabilities help businesses improve products and pages, understand results, and make informed decisions without needing to become technical specialists. This portfolio also includes larger initiatives such as NICO and BIS. Client systems and source code remain private.
 
 <br>
 
 ---
 
 <br>
- 
+
+### NICO
+
+NICO is ILGM's developing AI-assisted business operations interface. It is designed to help authorized, nontechnical users work with website content, commerce information, and routine business tasks through natural language, while respecting permissions, approvals, and safeguards.
+
+NICO is developed within the ILGM Plugins portfolio rather than a separate repository. Its goal is to make capable business software easier to use, with Tinker exploring resilient AI options that can support that experience over time.
+
+<br>
+
+---
+
+<br>
+
 ### Tinker AI Studio
 
 <div align="center">
@@ -21,64 +44,9 @@ The projects below represent different corners of that workshop. Their developme
   <img src="assets/tinker-studio-mark.png" alt="Tinker Studio logo" width="115">
 </div>
 
-Tinker is a locally hosted artificial intelligence workshop for building, learning, experimenting, and solving practical problems. It brings together an adaptable application for working with local language models, operating guidance for human and AI collaboration, and reusable configuration and documentation.
+Tinker is ILGM's working laboratory for adaptable, locally hosted AI. It explores how language models, reusable knowledge, and human-guided workflows can support practical business applications without tying every capability to a single commercial AI provider.
 
-The broader effort includes Tinker Base, a curated reference library, and Tinker Wiki, a personal field notebook. The philosophy is simple: **AI is a tool in the workshop, not the craftsman.** Curiosity, experience, and judgment remain human responsibilities.
-
-
-<br>
-
----
-
-<br>
-
-### CircuitWorks TechBench
-
-<div align="center">
-  <img src="assets/circuitworks-repo-header.jpg" alt="CircuitWorks electronics and embedded systems workshop" width="600"><br>
-  <img src="assets/circuitworks-eb-logo.jpg" alt="CircuitWorks TechBench logo" width="115">
-</div>
-
-CircuitWorks is the electronics and embedded systems workbench. Its projects span circuits, Arduino and ESP32 microcontrollers, firmware, sensors, automation, and practical electronic systems, including technology for model railroad operations.
-
-Work begins with understanding what a system needs to do, rather than selecting hardware because it happens to be available. Modular designs, repairability, experimentation, and clear documentation help each project contribute to the next. **Understand the problem, build what works, document what matters, and keep learning.**
-
-
-<br>
-
----
-
-<br>
-
-### ILGM Plugins
-
-<div align="center">
-  <img src="assets/ilgm-repo-header.png" alt="ILGM software development" width="600"><br>
-  <img src="assets/ilgm-inc-logo.png" alt="ILGM Plugins logo" width="115">
-</div>
-
-ILGM develops and maintains specialized WordPress and WooCommerce software for real website operations. The work includes original plugins, carefully maintained third party components, automation, integrations, and tools that support publishing, commerce, customer communication, and reporting.
-
-The emphasis is on solving underlying operational problems, respecting existing workflows, and keeping software reliable and maintainable. Consistent interfaces, accessibility, and documentation are part of the engineering, not extras added at the end. Client systems and proprietary source code remain private.
-
-
-<br>
-
----
-
-<br>
-
-### Chris OS
-
-<div align="center">
-  <img src="assets/chris-wcrr.png" alt="Chris at the Widow Creek workshop" width="600"><br>
-  <img src="assets/chris-os-logo.png" alt="Chris OS logo" width="115">
-</div>
-
-Chris OS is the personal knowledge system and shared operating philosophy behind the work. It preserves the reasoning, observations, decisions, and lessons that make experience useful long after a particular project is finished.
-
-Chris OS and Widow Creek are closely connected. Widow Creek is where curiosity becomes projects, stories, experiments, and exploration; Chris OS helps organize and preserve the understanding behind them. It is a human first framework that can work alongside AI without depending on it.
-
+A central goal is **resilience**: developing alternatives when frontier AI services are unavailable, change direction, or become too expensive. Lessons from Tinker inform how ILGM builds dependable AI-assisted tools for clients. Tinker Base and Tinker Wiki support reusable knowledge and documentation. **AI is a tool in the workshop, not the craftsman.**
 
 <br>
 
@@ -93,14 +61,46 @@ Chris OS and Widow Creek are closely connected. Widow Creek is where curiosity b
   <img src="assets/switchit-logo.png" alt="SwitchIt logo" width="115">
 </div>
 
-SwitchIt brings **big railroad operations to small model railroad layouts**. It transforms traditional Inglenook switching puzzles and car forwarding into a simple digital experience, with switch lists, car cards, configurable tracks and industries, and realistic capacity based on actual car and siding lengths.
+SwitchIt is a working software project that brings **big railroad operations to small model railroad layouts**. It combines rolling-stock inventory, switching sessions, and realistic operating logic in a Mac-centered application designed for compact layouts and accessible operation.
 
-Its virtual interchange yard lets a compact layout draw from a much larger collection of rolling stock, making a few feet of track feel connected to a broader railroad. SwitchIt is being designed for a Mac desktop experience with convenient local network access from phones and tablets. It will operate independently while sharing compatible operating concepts with IRROD and allowing future optional RAILS hardware integration. The project is in planning and architecture review.
+Beyond model railroading, SwitchIt is a practical development environment for native desktop applications, data modeling, interface design, licensing, and connected-device experiences. Those lessons carry into ILGM's broader client software work.
+
+<br>
+
+---
+
+<br>
+
+### CircuitWorks TechBench
+
+<div align="center">
+  <img src="assets/circuitworks-repo-header.jpg" alt="CircuitWorks electronics and embedded systems workshop" width="600"><br>
+  <img src="assets/circuitworks-eb-logo.jpg" alt="CircuitWorks TechBench logo" width="115">
+</div>
+
+CircuitWorks is ILGM's electronics and embedded-systems workbench, exploring Arduino and ESP32 microcontrollers, sensors, firmware, automation, and data logic. Projects connect physical systems to software and test how information moves between devices and applications.
+
+The focus is on defining the problem first, then choosing the hardware and software that fit. Modular design, repairability, and clear documentation turn experiments into knowledge that can support future business solutions.
+
+<br>
+
+---
+
+<br>
+
+### Chris OS
+
+<div align="center">
+  <img src="assets/chris-wcrr.png" alt="Chris at the Widow Creek workshop" width="600"><br>
+  <img src="assets/chris-os-logo.png" alt="Chris OS logo" width="115">
+</div>
+
+Chris OS is Chris Sgaraglino's personal knowledge and operating framework. It preserves decisions, observations, standards, and lessons learned across software development, technology, and creative projects.
+
+It supports the same human-led approach used throughout ILGM: understand the goal, record the reasoning, and make useful knowledge available for the next challenge. Widow Creek remains a separate home for Chris's personal interests and exploration.
 
 ## The common thread
 
-These projects serve different purposes, but the principles stay consistent: understand systems before choosing tools, favor useful simplicity, keep people in control, and document what matters. Technology changes. Good engineering habits travel from one project to the next.
+**Business needs come first.** ILGM brings more than 30 years of experience in consulting and problem solving to software development. WordPress, AI, native Mac applications, and embedded systems are different tools for the same purpose: building useful, maintainable solutions around people and their work.
 
-**Explore more at [Widow Creek](https://www.widowcreek.com/).**
-
-
+**Learn more about ILGM at [ilgminc.com](https://ilgminc.com/).**
