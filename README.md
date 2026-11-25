@@ -125,3 +125,7 @@ These decisions reflect the same philosophy that guides our client development t
 Our GitHub activity represents the latest chapter in more than 30 years of software development, not where our story began.
 
 **Learn more about ILGM at [ilgminc.com](https://ilgminc.com/).**
+
+---
+
+<small>© 2026 ILGM, Inc. All rights reserved. Original artwork, branding, written content, and other eligible creative materials are protected by applicable copyright law. Public availability does not grant permission for reuse. Third-party rights and applicable licenses remain unaffected.</small>
