@@ -19,9 +19,11 @@ This is a public overview of the projects and development work behind ILGM. The 
   <img src="assets/ilgm-inc-logo.png" alt="ILGM Plugins logo" width="115">
 </div>
 
-ILGM develops and maintains a portfolio of **more than 70 WordPress and WooCommerce plugin applications**, combining original software with carefully maintained third-party components. The portfolio supports publishing, commerce, affiliate programs, ROI reporting, link tracking, customer communication, and day-to-day business operations.
+IILGM Plugins is the software foundation behind many of the websites ILGM builds and hosts. Its portfolio of **more than 70 WordPress and WooCommerce applications** includes original tools and carefully maintained third-party components. These applications handle practical business needs such as publishing announcements, managing commerce, affiliate programs, tracking links, measuring results, and communicating with customers.
 
-Rather than asking businesses to adapt to the limits of off-the-shelf software, ILGM develops practical tools around how clients actually work. Connected commerce and reporting capabilities help businesses improve products and pages, understand results, and make informed decisions without needing to become technical specialists. This portfolio also includes larger initiatives such as NICO and BIS. Client systems and source code remain private.
+For example, ILGM Bulletins lets a client publish a scheduled announcement without rebuilding a page, while other plugins extend the behavior of an online store or provide information that standard WordPress installations do not expose. Some tools are small, focused improvements; others connect several business processes. The common goal is to give clients useful control over their websites without forcing them to become software administrators. Plugins are tested and maintained for ILGM-managed environments, and client systems remain private.
+
+<small>**Technology:** PHP, WordPress APIs, WooCommerce, JavaScript, HTML, CSS, MySQL-compatible WordPress databases, Git, and GitHub. Includes original plugins and maintained third-party forks.</small>
 
 <br>
 
@@ -38,9 +40,11 @@ Rather than asking businesses to adapt to the limits of off-the-shelf software, 
   <img src="assets/nico-logo.png" alt="NICO Intelligence logo" width="115">
 </div>
 
-NICO Intelligence (NI) stands for **Natural Intelligence for Client Operations**. NICO is ILGM's developing AI-assisted business operations interface. It is designed to help authorized, nontechnical users work with website content, commerce information, and routine business tasks through natural language, while respecting permissions, approvals, and safeguards.
+NNICO Intelligence, short for **Natural Intelligence for Client Operations**, is an AI-assisted interface for everyday website and business tasks. Instead of navigating several WordPress screens, an authorized user can ask an AI assistant to find a product, review a blog post, or prepare a specific change in ordinary language. NICO translates supported requests into narrowly defined WordPress operations and returns results the user can review.
 
-NICO is developed within the ILGM Plugins portfolio rather than a separate repository. Its goal is to make capable business software easier to use, with Tinker exploring resilient AI options that can support that experience over time.
+NICO is deliberately **not** a replacement for the WordPress dashboard or an unrestricted website administrator. Its supported operations are limited, respect the connected user's permissions, and use human approval and editing protections for changes. Current development focuses on WordPress content and WooCommerce products, with broader integrations considered separately. NICO is developed within ILGM Plugins, connecting conversational AI to existing business software rather than replacing that software.
+
+<small>**Technology:** PHP, WordPress and WooCommerce APIs, Model Context Protocol (MCP), JSON-based tool interfaces, application-password authentication, and AI clients. Server-side capability checks, editing locks, and version validation protect changes.</small>
 
 <br>
 
@@ -57,9 +61,11 @@ NICO is developed within the ILGM Plugins portfolio rather than a separate repos
   <img src="assets/tinker-studio-mark.png" alt="Tinker Studio logo" width="115">
 </div>
 
-Tinker is ILGM's working laboratory for adaptable, locally hosted AI. It explores how language models, reusable knowledge, and human-guided workflows can support practical business applications without tying every capability to a single commercial AI provider.
+TTinker AI Studio is ILGM's research and development environment for **locally hosted artificial intelligence**. It investigates how language models can run on hardware ILGM controls, how they can use private reference material, and how people can choose the right model for writing, coding, research, or other tasks. The work is intended to make AI more adaptable, understandable, and useful in actual software workflows.
 
-A central goal is **resilience**: developing alternatives when frontier AI services are unavailable, change direction, or become too expensive. Lessons from Tinker inform how ILGM builds dependable AI-assisted tools for clients. Tinker Base and Tinker Wiki support reusable knowledge and documentation. **AI is a tool in the workshop, not the craftsman.**
+A major reason for building Tinker is resilience. Cloud AI services are powerful, but availability, pricing, privacy requirements, and product changes are outside a client's control. Tinker explores local alternatives and reusable knowledge systems, including Tinker Base and Tinker Wiki, that could eventually complement services such as NICO. This is an engineering laboratory, not a claim that local models already replace every cloud capability.
+
+<small>**Technology:** Locally hosted language models, GGUF model files, llama.cpp, Apple silicon, local HTTP APIs, and a custom application interface. Model selection, orchestration, and reusable knowledge are active development areas.</small>
 
 <br>
 
@@ -76,9 +82,11 @@ A central goal is **resilience**: developing alternatives when frontier AI servi
   <img src="assets/switchit-logo.png" alt="SwitchIt logo" width="115">
 </div>
 
-SwitchIt is a working software project that brings **big railroad operations to small model railroad layouts**. It combines rolling-stock inventory, switching sessions, and realistic operating logic in a Mac-centered application designed for compact layouts and accessible operation.
+SSwitchIt is a software application for model railroaders who want **realistic operations on small layouts**. It keeps an inventory of locomotives and rolling stock, helps operators describe their tracks, and creates switching assignments for compact railroads. A hobbyist can run a meaningful operating session on a shelf layout or tabletop setup without needing a large railroad, complicated paperwork, or a full train-control system.
 
-Beyond model railroading, SwitchIt is a practical development environment for native desktop applications, data modeling, interface design, licensing, and connected-device experiences. Those lessons carry into ILGM's broader client software work.
+SwitchIt is inspired by traditional Inglenook switching but treats the activity as railroad operations rather than an arcade game. The software prepares an assignment; the person operates the trains and makes the decisions. Its design also demonstrates broader ILGM engineering skills: desktop application packaging, local data storage, responsive interfaces, workflow modeling, and software licensing. Development is ongoing, and not every planned workspace is complete.
+
+<small>**Technology:** Node.js, SQLite, JavaScript, HTML, CSS, and a native macOS AppKit/WebKit wrapper. Local-first architecture with optional access from other devices on the same network; Windows support is planned.</small>
 
 <br>
 
@@ -95,9 +103,11 @@ Beyond model railroading, SwitchIt is a practical development environment for na
   <img src="assets/circuitworks-eb-logo.jpg" alt="CircuitWorks TechBench logo" width="115">
 </div>
 
-CircuitWorks is ILGM's electronics and embedded-systems workbench, exploring Arduino and ESP32 microcontrollers, sensors, firmware, automation, and data logic. Projects connect physical systems to software and test how information moves between devices and applications.
+CCircuitWorks TechBench is the hands-on engineering side of ILGM, where **software meets physical electronics**. Its projects explore microcontrollers, sensors, firmware, and connected devices. Instead of stopping at a website or application screen, CircuitWorks asks how software can measure, monitor, or control something in the physical world.
 
-The focus is on defining the problem first, then choosing the hardware and software that fit. Modular design, repairability, and clear documentation turn experiments into knowledge that can support future business solutions.
+Experiments with Arduino and ESP32-class hardware provide a place to test device communication, automation logic, repairability, and practical prototypes. The value to ILGM is not a catalog of finished consumer products. It is experience solving problems that involve both code and hardware, including the difficult part of getting several components to work reliably together.
+
+<small>**Technology:** Arduino and ESP32 microcontrollers, embedded firmware, sensor interfaces, device communication, and hardware prototyping. Specific programming languages and frameworks vary by experiment.</small>
 
 <br>
 
@@ -114,9 +124,11 @@ The focus is on defining the problem first, then choosing the hardware and softw
   <img src="assets/code-manager-logo.jpg" alt="Code Manager logo" width="115">
 </div>
 
-Code Manager is ILGM's centralized platform for software development collaboration, tester feedback, release management, and licensing. It brings the operational side of ILGM's software projects together, making it easier to coordinate testing, manage releases, and support licensed installations.
+CCode Manager brings together **two important parts of operating ILGM software: community feedback and controlled software access**. On the community side, invited testers and users can report bugs, suggest improvements, discuss problems, and help shape upcoming releases. This gives development teams a structured way to hear from the people actually using an application.
 
-The platform is being developed for ILGM's own applications and workflows. Its management tools and underlying source code remain private.
+On the access side, Code Manager is being developed to manage license keys, authorized installations, and related release information. The aim is to make software distribution and customer participation easier to manage without mixing public discussion with sensitive licensing controls. It is an internal platform under development, not a public service that is already available for general registration.
+
+<small>**Technology:** Planned web-based community and licensing workflows, license-key validation, installation records, and application integration. The final implementation stack is not yet documented in the public project overview.</small>
 
 <br>
 
@@ -133,9 +145,11 @@ The platform is being developed for ILGM's own applications and workflows. Its m
   <img src="assets/chris-os-logo.png" alt="Chris OS logo" width="115">
 </div>
 
-Chris OS is Chris Sgaraglino's personal knowledge and operating framework. It preserves decisions, observations, standards, and lessons learned across software development, technology, and creative projects.
+CChris OS is a **personal knowledge and engineering framework**, not a conventional operating system. It organizes the principles, standards, decisions, and lessons behind work in software, electronics, design, accessibility, and creative projects. The purpose is to preserve not just the finished result, but why a particular approach was chosen and what someone should know before changing it.
 
-It supports the same human-led approach used throughout ILGM: understand the goal, record the reasoning, and make useful knowledge available for the next challenge. Widow Creek remains a separate home for Chris's personal interests and exploration.
+Its documentation helps keep separate projects consistent without forcing them into the same codebase. It establishes practices for reviewing a problem, collaborating with AI, documenting decisions, and keeping technical work maintainable. Widow Creek remains the separate public home for personal interests and experiments; Chris OS is the framework for carrying what is learned from one project into the next.
+
+<small>**Technology:** Markdown documentation, Git and GitHub version control, repository standards, structured project archives, and human-guided AI workflows. Chris OS is primarily a knowledge system rather than a programming-language-specific application.</small>
 
 ## The common thread
 
