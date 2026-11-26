@@ -19,7 +19,7 @@ This is a public overview of the projects and development work behind ILGM. The 
   <img src="assets/ilgm-inc-logo.png" alt="ILGM Plugins logo" width="115">
 </div>
 
-IILGM Plugins is the software foundation behind many of the websites ILGM builds and hosts. Its portfolio of **more than 70 WordPress and WooCommerce applications** includes original tools and carefully maintained third-party components. These applications handle practical business needs such as publishing announcements, managing commerce, affiliate programs, tracking links, measuring results, and communicating with customers.
+ILGM Plugins is the software foundation behind many of the websites ILGM builds and hosts. Its portfolio of **more than 70 WordPress and WooCommerce applications** includes original tools and carefully maintained third-party components. These applications handle practical business needs such as publishing announcements, managing commerce, affiliate programs, tracking links, measuring results, and communicating with customers.
 
 For example, ILGM Bulletins lets a client publish a scheduled announcement without rebuilding a page, while other plugins extend the behavior of an online store or provide information that standard WordPress installations do not expose. Some tools are small, focused improvements; others connect several business processes. The common goal is to give clients useful control over their websites without forcing them to become software administrators. Plugins are tested and maintained for ILGM-managed environments, and client systems remain private.
 
@@ -40,7 +40,7 @@ For example, ILGM Bulletins lets a client publish a scheduled announcement witho
   <img src="assets/nico-logo.png" alt="NICO Intelligence logo" width="115">
 </div>
 
-NNICO Intelligence, short for **Natural Intelligence for Client Operations**, is an AI-assisted interface for everyday website and business tasks. Instead of navigating several WordPress screens, an authorized user can ask an AI assistant to find a product, review a blog post, or prepare a specific change in ordinary language. NICO translates supported requests into narrowly defined WordPress operations and returns results the user can review.
+NICO Intelligence, short for **Natural Intelligence for Client Operations**, is an AI-assisted interface for everyday website and business tasks. Instead of navigating several WordPress screens, an authorized user can ask an AI assistant to find a product, review a blog post, or prepare a specific change in ordinary language. NICO translates supported requests into narrowly defined WordPress operations and returns results the user can review.
 
 NICO is deliberately **not** a replacement for the WordPress dashboard or an unrestricted website administrator. Its supported operations are limited, respect the connected user's permissions, and use human approval and editing protections for changes. Current development focuses on WordPress content and WooCommerce products, with broader integrations considered separately. NICO is developed within ILGM Plugins, connecting conversational AI to existing business software rather than replacing that software.
 
@@ -61,7 +61,7 @@ NICO is deliberately **not** a replacement for the WordPress dashboard or an unr
   <img src="assets/tinker-studio-mark.png" alt="Tinker Studio logo" width="115">
 </div>
 
-TTinker AI Studio is ILGM's research and development environment for **locally hosted artificial intelligence**. It investigates how language models can run on hardware ILGM controls, how they can use private reference material, and how people can choose the right model for writing, coding, research, or other tasks. The work is intended to make AI more adaptable, understandable, and useful in actual software workflows.
+Tinker AI Studio is ILGM's research and development environment for **locally hosted artificial intelligence**. It investigates how language models can run on hardware ILGM controls, how they can use private reference material, and how people can choose the right model for writing, coding, research, or other tasks. The work is intended to make AI more adaptable, understandable, and useful in actual software workflows.
 
 A major reason for building Tinker is resilience. Cloud AI services are powerful, but availability, pricing, privacy requirements, and product changes are outside a client's control. Tinker explores local alternatives and reusable knowledge systems, including Tinker Base and Tinker Wiki, that could eventually complement services such as NICO. This is an engineering laboratory, not a claim that local models already replace every cloud capability.
 
@@ -82,7 +82,7 @@ A major reason for building Tinker is resilience. Cloud AI services are powerful
   <img src="assets/switchit-logo.png" alt="SwitchIt logo" width="115">
 </div>
 
-SSwitchIt is a software application for model railroaders who want **realistic operations on small layouts**. It keeps an inventory of locomotives and rolling stock, helps operators describe their tracks, and creates switching assignments for compact railroads. A hobbyist can run a meaningful operating session on a shelf layout or tabletop setup without needing a large railroad, complicated paperwork, or a full train-control system.
+SwitchIt is a software application for model railroaders who want **realistic operations on small layouts**. It keeps an inventory of locomotives and rolling stock, helps operators describe their tracks, and creates switching assignments for compact railroads. A hobbyist can run a meaningful operating session on a shelf layout or tabletop setup without needing a large railroad, complicated paperwork, or a full train-control system.
 
 SwitchIt is inspired by traditional Inglenook switching but treats the activity as railroad operations rather than an arcade game. The software prepares an assignment; the person operates the trains and makes the decisions. Its design also demonstrates broader ILGM engineering skills: desktop application packaging, local data storage, responsive interfaces, workflow modeling, and software licensing. Development is ongoing, and not every planned workspace is complete.
 
@@ -103,7 +103,7 @@ SwitchIt is inspired by traditional Inglenook switching but treats the activity 
   <img src="assets/circuitworks-eb-logo.jpg" alt="CircuitWorks TechBench logo" width="115">
 </div>
 
-CCircuitWorks TechBench is the hands-on engineering side of ILGM, where **software meets physical electronics**. Its projects explore microcontrollers, sensors, firmware, and connected devices. Instead of stopping at a website or application screen, CircuitWorks asks how software can measure, monitor, or control something in the physical world.
+CircuitWorks TechBench is the hands-on engineering side of ILGM, where **software meets physical electronics**. Its projects explore microcontrollers, sensors, firmware, and connected devices. Instead of stopping at a website or application screen, CircuitWorks asks how software can measure, monitor, or control something in the physical world.
 
 Experiments with Arduino and ESP32-class hardware provide a place to test device communication, automation logic, repairability, and practical prototypes. The value to ILGM is not a catalog of finished consumer products. It is experience solving problems that involve both code and hardware, including the difficult part of getting several components to work reliably together.
 
@@ -124,7 +124,7 @@ Experiments with Arduino and ESP32-class hardware provide a place to test device
   <img src="assets/code-manager-logo.jpg" alt="Code Manager logo" width="115">
 </div>
 
-CCode Manager brings together **two important parts of operating ILGM software: community feedback and controlled software access**. On the community side, invited testers and users can report bugs, suggest improvements, discuss problems, and help shape upcoming releases. This gives development teams a structured way to hear from the people actually using an application.
+Code Manager brings together **two important parts of operating ILGM software: community feedback and controlled software access**. On the community side, invited testers and users can report bugs, suggest improvements, discuss problems, and help shape upcoming releases. This gives development teams a structured way to hear from the people actually using an application.
 
 On the access side, Code Manager is being developed to manage license keys, authorized installations, and related release information. The aim is to make software distribution and customer participation easier to manage without mixing public discussion with sensitive licensing controls. It is an internal platform under development, not a public service that is already available for general registration.
 
@@ -145,7 +145,7 @@ On the access side, Code Manager is being developed to manage license keys, auth
   <img src="assets/chris-os-logo.png" alt="Chris OS logo" width="115">
 </div>
 
-CChris OS is a **personal knowledge and engineering framework**, not a conventional operating system. It organizes the principles, standards, decisions, and lessons behind work in software, electronics, design, accessibility, and creative projects. The purpose is to preserve not just the finished result, but why a particular approach was chosen and what someone should know before changing it.
+Chris OS is a **personal knowledge and engineering framework**, not a conventional operating system. It organizes the principles, standards, decisions, and lessons behind work in software, electronics, design, accessibility, and creative projects. The purpose is to preserve not just the finished result, but why a particular approach was chosen and what someone should know before changing it.
 
 Its documentation helps keep separate projects consistent without forcing them into the same codebase. It establishes practices for reviewing a problem, collaborating with AI, documenting decisions, and keeping technical work maintainable. Widow Creek remains the separate public home for personal interests and experiments; Chris OS is the framework for carrying what is learned from one project into the next.
 
